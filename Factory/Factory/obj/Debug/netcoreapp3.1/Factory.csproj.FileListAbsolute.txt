@@ -1,0 +1,13 @@
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
