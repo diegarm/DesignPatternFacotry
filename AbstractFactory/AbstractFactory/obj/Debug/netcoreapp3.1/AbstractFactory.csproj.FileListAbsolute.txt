@@ -1,0 +1,13 @@
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Diego\Documents\Projetos\DPFactory\DesignPatternFacotry\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
