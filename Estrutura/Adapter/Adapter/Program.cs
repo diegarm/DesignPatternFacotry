@@ -19,10 +19,8 @@ namespace Adapter
             Console.WriteLine();
 
             Console.WriteLine("Pegou o avião");
-
             adaptador.Andar("Diego");
             adaptador.Atirar();
-
             Console.ReadKey();
 
 

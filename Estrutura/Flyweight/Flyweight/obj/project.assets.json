@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\u006385\\.nuget\\packages\\": {}
@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Adapter\\Adapter\\Adapter.csproj",
-      "projectName": "Adapter",
-      "projectPath": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Adapter\\Adapter\\Adapter.csproj",
+      "projectUniqueName": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Flyweight\\Flyweight\\Flyweight.csproj",
+      "projectName": "Flyweight",
+      "projectPath": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Flyweight\\Flyweight\\Flyweight.csproj",
       "packagesPath": "C:\\Users\\u006385\\.nuget\\packages\\",
-      "outputPath": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Adapter\\Adapter\\obj\\",
+      "outputPath": "C:\\G\\S\\Pessoal\\DesignPatterns\\Estrutura\\Flyweight\\Flyweight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u006385\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -33,8 +33,8 @@
         "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -45,8 +45,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
